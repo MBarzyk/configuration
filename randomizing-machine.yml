@@ -1,3 +1,7 @@
 random:
   words: Hello, world,my,beautiful,app,dupa,reclawlol,rejnolsmierdzi,kupa
   numbers: 7,37,51,93,666,69
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8010/eureka/
